@@ -3,7 +3,7 @@ import random
 import os
 
 #update this to go by a                                                                                                                         relative file
-os.chdir (r'C:\Users\tahda\OneDrive\Desktop\Mega\Portfolio\py\DNDScript')
+os.chdir (r'C:{insert file location here}')
 
 variable_list = []
 with open ("UelAdams.txt") as myfile:
